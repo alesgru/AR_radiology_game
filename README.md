@@ -4,7 +4,7 @@ Augmented Reality Game for Interacting with CT Volumes
 
 ## Demo Education Mode
 
-![Demo Doccou alpha](https://media.giphy.com/media/gjaDSBuoFj7rsGtwZq/giphy.gif) 
+![Demo Doccou alpha](https://media.giphy.com/media/m9WyZ6fP7twsdOVGSH/giphy.gif) 
 
 ## Demo Game Mode
 
