@@ -1,7 +1,11 @@
 # AR_radiology_game
 Augmented Reality Game for Interacting with CT Volumes
 
-
+# Requirements:
+  - Unity 
+  - Mixed Reality Toolkit
+  - Hololense
+  
 ## Demo 
 ### Education Mode:
 exploaring the volume via axial, sagittal and oblique view:
